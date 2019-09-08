@@ -5,9 +5,41 @@
 
 .pic {
     float: center;
-    padding-left: 500px;
+    padding-left: 600px;
 
 }
-#p {
-    font-size: 3000px;
-}
+     
+ 
+
+     #computerGuesses {
+
+    color: greenyellow;
+    }
+
+    
+    #directions {
+        color: yellow;
+    }
+
+    #Psychic_Game {
+        color: brown;
+        float: center;
+        margin-left: 600px;
+       
+
+    }
+    #losses {
+        color: red;
+    }
+    #guesses_left {
+        color: aqua;
+    }
+    #letters_used {
+        color: violet;
+    }
+    #wins {
+        color: gold;
+    }
+
+
+
